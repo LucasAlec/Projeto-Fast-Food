@@ -117,6 +117,7 @@ figure{
 
 #grid-conteudo{
     background-color: #fff;
+    padding-top: 20rem;
 }
 .grid{
     display: grid;
