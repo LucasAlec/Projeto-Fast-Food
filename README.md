@@ -7,3 +7,7 @@ O mesmo utiliza
 - Definir o nome do website.
 
 - Definir header e logotipo do site.
+
+- Padrão de cores.
+
+- Tons Gradientes com CSS.
