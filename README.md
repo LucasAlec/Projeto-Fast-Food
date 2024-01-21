@@ -1,8 +1,9 @@
 # Projeto de site Fast Food
-O projeto consiste na criação um site para uma pizzaria, utilizando `HTML` e `CSS`
+O projeto consiste na criação um site para uma pizzaria, utilizando `HTML` e `CSS`.
+O mesmo utiliza
 
-# Objetivos
+# Passo a Passo
 
-- O projeto utiliza o modelo responsivo desenvolvido anteriormente.
+- Definir o nome do website.
 
-- 
+- Definir header e logotipo do site.
