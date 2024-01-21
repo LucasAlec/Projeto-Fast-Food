@@ -11,3 +11,8 @@ O mesmo utiliza
 - Padrão de cores.
 
 - Tons Gradientes com CSS.
+
+- Editar layout e formatar fontes.
+
+
+

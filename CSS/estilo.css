@@ -44,7 +44,10 @@ footer{
     padding-top: 23rem;
 }
 h1{
-    font-size: 2.5rem;
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 1px 1px 2px #000;
+    color: rgb(255, 0, 0);
 }
 h2{
     font-size: 1.9rem;
@@ -55,6 +58,14 @@ h3{
 h4{
     font-size: 1.6rem;
 }
+h5{
+    font-size: 3rem;
+    color: rgb(255, 0, 0);
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+}
+
+
 figure{
     text-align: center;
 }
@@ -139,7 +150,9 @@ a{
     text-decoration: none;
     color: #fff;
     font-weight: bold;
+    text-shadow: 2px 2px 3px #000;
 }
 a:hover{
     color: #ffff00;
+    text-shadow: 2px 2px 3px #000;
 }
