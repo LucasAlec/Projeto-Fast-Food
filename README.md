@@ -15,3 +15,9 @@ O mesmo utiliza
 - Editar layout e formatar fontes.
 
 - Inserir imagens
+
+- Efeito nos links
+
+- Alterar elementos das páginas
+
+- Formatar Botão Compras
