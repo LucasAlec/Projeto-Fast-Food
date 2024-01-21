@@ -14,10 +14,15 @@ O mesmo utiliza
 
 - Editar layout e formatar fontes.
 
-- Inserir imagens
+- Inserir imagens.
 
-- Efeito nos links
+- Efeito nos links.
 
-- Alterar elementos das páginas
+- Alterar elementos das páginas.
 
-- Formatar Botão Compras
+- Formatar Botão Compras.
+
+- Inserindo produtos no site.
+Refrigerantes e salgadinhos.
+
+-
