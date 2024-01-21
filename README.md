@@ -14,5 +14,4 @@ O mesmo utiliza
 
 - Editar layout e formatar fontes.
 
-
-
+- Inserir imagens
