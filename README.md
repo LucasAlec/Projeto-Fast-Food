@@ -27,3 +27,7 @@ Refrigerantes e salgadinhos.
 
 - Link Âncora
 Definindo links internos e externos.
+
+- Funcionalidade whatsapp
+Pesquisar por um gerador de links whatsapp, lá é possivel digitar o número e uma mensagem opcional.
+Adicionar ao no `index.html` o código: `<button id="btn-compras"><a href="inserir link aqui!!!"/a> FAZER MEU PEDIDO</button>`
